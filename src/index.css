@@ -8,7 +8,7 @@ body {
   }
 
   body {
-    background: url("../public/cool-background.png");
+    background: url("../public/cool-background.png.jpg");
     background-repeat: repeat-y;
     background-size: 100% 400vh;
   }
